@@ -1,0 +1,54 @@
+.container {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+
+.one {
+	background-color: blue;
+	background-image: url('images/one.jpg');
+	width: 1250px;
+	height: 800px;
+	display: flex;
+	flex-grow: 1;
+}
+
+.two {
+	background-color: red;
+	width: 650px;
+	height: 800px;
+	display: flex;
+	flex-grow: 1;
+}
+
+.three {
+	background-color: green;
+	width: 750px;
+	height: 800px;
+	display: flex;
+	flex-grow: 1;
+}
+
+.four {
+	background-color: yellow;
+	width: 1150px;
+	height: 800px;
+	display: flex;
+	flex-grow: 1;
+}
+
+.five {
+	background-color: purple;
+	width: 750px;
+	height: 800px;
+	display: flex;
+	flex-grow: 1;
+}
+
+.six {
+	background-color: orange;
+	width: 1150px;
+	height: 800px;
+	display: flex;
+	flex-grow: 1;
+}
